@@ -17,7 +17,7 @@
     <!--集中定义项目中依赖的版本号-->
     <druid.version>1.1.10</druid.version>
     <junit.version>4.12</junit.version>
-    <spring.version>5.1.5.RELEASE</spring.version>
+    <spring.version>5.2.6.RELEASE</spring.version>
     <mybatis.version>3.5.3</mybatis.version>
 
     <!--MyBatis和Spring整合的专用包-->
